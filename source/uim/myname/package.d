@@ -1,14 +1,14 @@
-module uim.myname;
+module uim.services;
 
 public { // required uim libraries
   import uim.core;
   import uim.oop;
 }
 
-public { // myname packages
-  import uim.myname.classes;
-  import uim.myname.interfaces;
-  import uim.myname.helpers;
-  import uim.myname.mixins;
-  import uim.myname.tests;
+public { // services packages
+  import uim.services.classes;
+  import uim.services.interfaces;
+  import uim.services.helpers;
+  import uim.services.mixins;
+  import uim.services.tests;
 }
